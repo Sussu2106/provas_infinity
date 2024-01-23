@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.photo{
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    ;
+}
+
+.secao{
+    font-family: 'Roboto', sans-serif;
+}
+.subname{
+    font-size: 80%;
+    font-family: 'Roboto', sans-serif;
+}
